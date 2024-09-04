@@ -7,9 +7,12 @@ You can download the data for this project here, (it is an excel workbook) https
 
 # Please do the following: 
 1). Perform data visualization and checks
+
 2). Calculate the Electricity Bought
+
 3). Calculating Excess Solar Generation.
-:4). Model the Battery Charge Level
+
+4). Model the Battery Charge Level
 
 # Sample Solution: 
 https://github.com/HarunMbaabu/Data-Analyst-Assessment/blob/main/Analyze%20the%20data.ipynb
@@ -18,7 +21,8 @@ https://github.com/HarunMbaabu/Data-Analyst-Assessment/blob/main/Analyze%20the%2
 This project involves analyzing solar electricity generation, electricity usage, and battery usage data to understand the potential benefits of using a battery system to store excess solar electricity. The project utilizes the Python programming language and various libraries, including pandas for data manipulation, numpy for numerical operations, matplotlib for data visualization, and datetime for handling time-related data.
 
 # Project Steps
-Step (i): Data Visualization and Checks
+
+# Step (i): Data Visualization and Checks
 The project begins by loading the provided data from an Excel file (Junior Data Analyst _ Data.xlsx) into a pandas DataFrame. 
 The data contains information about solar electricity generation, electricity usage, and other relevant parameters. The goal of this step is to visualize and compare the average solar electricity generation and electricity usage for each hour in a day.
 
